@@ -14,6 +14,16 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
    npx expo start
+
+
+   <img width="433" height="737" alt="Image" src="https://github.com/user-attachments/assets/21ef960b-51df-464e-8fe1-cc23ddabd3d4" />
+
+<img width="435" height="731" alt="Image" src="https://github.com/user-attachments/assets/903bee67-a32d-4ba7-b6ba-d1bdfe2f1b0f" />
+<img width="433" height="737" alt="Image" src="https://github.com/user-attachments/assets/8b973509-6ae1-42e2-8fb0-a884c44ffdb7" />
+
+<img width="1202" height="774" alt="Image" src="https://github.com/user-attachments/assets/58f9cc93-399f-4b99-bd33-a796347d51fc" />
+<img width="435" height="731" alt="Image" src="https://github.com/user-attachments/assets/31a4bb89-3b26-422e-85b4-dca22c3c6a82" />
+<img width="433" height="737" alt="Image" src="https://github.com/user-attachments/assets/386b822c-3095-4a8f-ae8f-90c8df2c9e5f" />
    ```
 
 In the output, you'll find options to open the app in a
