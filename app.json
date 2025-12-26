@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "DataSyncNavigator",
-    "slug": "DataSyncNavigator",
+    "name": "DataSync Navigator",
+    "slug": "datasync-navigator",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
